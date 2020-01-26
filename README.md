@@ -1,0 +1,2 @@
+# SuffixTree
+Suffix Tree Project
